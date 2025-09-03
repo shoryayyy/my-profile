@@ -1,3 +1,3 @@
 # my-profile
-it"s my 1st repository
+it"s my 1st repository.
 Author - Shorya Sharma
